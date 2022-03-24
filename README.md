@@ -1,3 +1,6 @@
 # OGBComp-MOL-HIV
-#	 My first ML project
-## Big thanks @janoschmenke for helping me with all issues I had
+
+Luca Hagemeyer first ML project @ Koch Group. The aim was to imporve on the HIV Competition without using Graph Neural Networks.
+The leaderboard can be found [here](https://ogb.stanford.edu/docs/leader_graphprop/)
+
+**Big thanks [Janoch Menke](https://github.com/JanoschMenke) for helping me with all issues I had.**
